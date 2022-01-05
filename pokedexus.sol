@@ -1,4 +1,16 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-02-02
+*/
+/**
+   #POKEDEXUS features:
+   3% fee auto add to the liquidity pool to locked forever when selling
+   2% fee auto distribute to all holders
+   50% Supply is burned at start.  
+ */
+
+
 pragma solidity ^0.8.2;
+// SPDX-License-Identifier: Unlicensed
 
 contract Token {
     mapping(address => uint) public balances;
